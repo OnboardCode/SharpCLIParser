@@ -17,7 +17,8 @@
     <Company>Onboard Code</Company> 
     <Description>A lightweigth .NET C# library to parse arguments from command line interface applications.</Description> 
     <Copyright>Copyright (c) Onboard Code 2016 - 2024</Copyright> 
-    <PackageProjectUrl>https://onboardcode.github.io/sharpcliparser/</PackageProjectUrl> 
+    <PackageProjectUrl>https://onboardcode.github.io/sharpcliparser/</PackageProjectUrl>
+    <PackageId>SharpCLIParser</PackageId>
     <PackageIcon>sharpcliparser.png</PackageIcon> 
     <PackageReadmeFile>README.md</PackageReadmeFile> 
     <RepositoryUrl>https://github.com/onboardcode/sharpcliparser</RepositoryUrl> 
